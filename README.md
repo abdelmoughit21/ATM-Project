@@ -29,5 +29,3 @@ A simple ATM simulation system built in C++ that allows users to log in, check b
 - Modular functions design
 
 ---
-
-## 📂 Project Structure
